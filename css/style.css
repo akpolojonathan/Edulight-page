@@ -16,7 +16,6 @@ body {
 
 ul {
     position: relative;
-
     left: 700px;
 }
 
@@ -82,14 +81,15 @@ h3[class="ict-training"] {
 }
 
 #about {
-    text-align: left, bottom; padding-block-end: 0%;
-    padding: 200px 1px;
+    text-align: left;
+    padding: 270px 10px;
     color: whitesmoke;
-    font-size: 45px;
+    font-size: 35px;
     background-image: url("../images/cbd.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    background-blend-mode: inherit;
+    background-repeat: no-repeat;
 }
 
 #accolade {
@@ -97,7 +97,6 @@ h3[class="ict-training"] {
     font-family: fantasy;
     background-color: purple;
     backface-visibility: unset;
-    [Edulight]:
 }
 
 #contact {
